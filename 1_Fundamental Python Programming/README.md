@@ -1,8 +1,9 @@
-# Python-Programming
-Programming in Python with level ranging from basic to advanced.
+# Fundamental Programming in Python
 
-# Topics to be covered:
-
-## 1) Programming in Python
-## 2) Using Python with Client-Server Database 
-## 3) Object Oriented Programming in Python
+## 1) Python Fundamentals
+## 2) Control Structures
+## 3) Data Structures
+## 4) Functions
+## 5) File Handling
+## 6) Exception Handling
+## 7) Modules and Packages
