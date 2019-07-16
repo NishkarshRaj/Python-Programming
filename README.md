@@ -1,7 +1,7 @@
 # Python-Programming
 Programming in Python with level ranging from basic to advanced.
 
-# Topics to be covered:
+# Content:
 
 ## 1) Programming in Python
 ## 2) Using Python with Client-Server Database 
