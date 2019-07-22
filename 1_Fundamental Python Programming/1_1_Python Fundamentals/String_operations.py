@@ -7,4 +7,5 @@ print("Nishkarsh"*4);
 print(4*"Nishkarsh");
 '''String multiplication Works in both manner'''
 
-
+print("Nishkarsh" + "Raj");
+#print("Nishkarsh" * "Raj"); Cannot multiply strings
