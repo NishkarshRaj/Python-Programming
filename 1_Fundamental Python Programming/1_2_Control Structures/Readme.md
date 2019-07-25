@@ -1,6 +1,7 @@
 # Control Structures in HTML
 
 *There are only if-elif-else control structures in Python*
+
 **Switch cases are not present in Python**
 
 **Challenge: If you are reading this, try to create a module and a header file for Python that uses If-else statements to create a switch like statement.**
