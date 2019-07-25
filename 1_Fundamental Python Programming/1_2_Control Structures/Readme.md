@@ -4,7 +4,7 @@
 
 **Switch cases are not present in Python**
 
-**Challenge: If you are reading this, try to create a module and a header file for Python that uses If-else statements to create a switch like statement.**
+**Challenge: If you are reading this, try to create a module and a header file for Python that uses If-else statements to create a switch like statement.** :wink:
 
 if-elif-else statement use **offside rule**
 ```
@@ -13,7 +13,7 @@ After keyword, use colon (:) and from next line write all statements indented by
 ```
 
 **Syntax:**
-```
+```python
 if(<condition resulting in True/False boolean>):
 	...
 	...
