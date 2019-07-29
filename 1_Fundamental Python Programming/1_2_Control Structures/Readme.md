@@ -65,3 +65,12 @@ while(condition):
 	...
 	...
 ```
+
+## Keywords used in looping
+
+1. break
+	* break keyword is used to get out of a looping structure if condition is met.
+2. continue
+	* continue keywod is used to get to the next increment and ignoring the current increment.
+3. pass
+	* pass keyword is used when a block of code is needed but it does not have any syntax currently.
