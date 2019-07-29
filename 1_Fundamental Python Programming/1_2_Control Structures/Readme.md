@@ -1,5 +1,7 @@
 # Control Structures in HTML
 
+## Conditional Statements
+
 *There are only if-elif-else control structures in Python*
 
 **Switch cases are not present in Python**
