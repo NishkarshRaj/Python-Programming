@@ -38,3 +38,30 @@ else:
 	...
 	...
 ```
+
+## Looping Statements
+**In python, only entry controlled looping structures while and for loop are used.**
+
+### For Loop
+**Syntax:**
+```python
+for <iteration variable> in <string/tuple>:
+	---
+	---
+	---
+```
+*For loop with range*
+```python
+for <iteration variable> in range (start(inclusive),end(exclusive),jump):
+	---
+	---
+	---
+```
+### While loop
+**Syntax:**
+```python
+while(condition):
+	---
+	---
+	---
+```
