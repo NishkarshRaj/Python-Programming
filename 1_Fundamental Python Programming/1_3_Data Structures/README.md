@@ -4,7 +4,7 @@
 
 [2. String](/Strings)
 
-[3. Tuple]()
+[3. Tuple](Tuples/)
 
 [4. Dictionary]()
 
